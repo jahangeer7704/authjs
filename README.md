@@ -13,7 +13,7 @@ pnpm dev
 # or
 bun dev
 ```
-
+  jwt handbook : https://assets.ctfassets.net/2ntc334xpx65/o5J4X472PQUI4ai6cAcqg/3b04b28c3148a640d6eb2713d2cd9877/jwt-handbook-v0_14_2.pdf
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
